@@ -1,0 +1,8 @@
+README.md
+setup.py
+XAIM/__init__.py
+XAIM/myfunctions.py
+XAIM.egg-info/PKG-INFO
+XAIM.egg-info/SOURCES.txt
+XAIM.egg-info/dependency_links.txt
+XAIM.egg-info/top_level.txt
